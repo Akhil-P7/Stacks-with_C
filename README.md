@@ -5,6 +5,7 @@ It supports the following operations:
 - **Push** (Add an element to the stack)
 - **Pop** (Remove an element from the stack)
 - **Display** (Show the current stack)
+- **Peek** (Show the topmost element of current stack)
 
 ## 🚀 Getting Started
 
